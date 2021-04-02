@@ -3,7 +3,7 @@ _build/
 
 # dotfiles
 .*
-*.sh
+*
 !.gitignore
 !.github
 !.mailmap
