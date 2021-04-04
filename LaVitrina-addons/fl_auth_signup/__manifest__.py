@@ -10,8 +10,8 @@
         * Birth date
     """,
     'sequence': 1,
-    'author': 'cristia lopez',
-    'website': 'http://thefuturelens.com',
+    'author': 'cristian lopez',
+    'website': 'lavitrina.group',
     'depends': ['auth_signup'],
     'data': [
         'views/auth_signup_extend_views.xml',
