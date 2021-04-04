@@ -1,6 +1,6 @@
 {
     'name': 'Auth Signup Form',
-    'version': '13.0.1.0.0',
+    'version': '14.0.1.0.0',
     'category': 'Website',
     'summary': 'Auth signup form with extra fields',
     'description': """
@@ -10,7 +10,7 @@
         * Birth date
     """,
     'sequence': 1,
-    'author': 'Futurelens',
+    'author': 'cristia lopez',
     'website': 'http://thefuturelens.com',
     'depends': ['auth_signup'],
     'data': [
