@@ -1,0 +1,8 @@
+<record model="ir.ui.view" id="__view">
+    <field name="name">..view</field>
+    <field name="model"></field>
+    <field name="inherit_id" ref="" />
+    <field name="arch" type="xml">
+        
+    </field>
+</record>
